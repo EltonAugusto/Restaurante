@@ -1,0 +1,10 @@
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll.config
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\EntityFramework.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\EntityFramework.xml
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Domain\bin\Debug\EntityFramework.SqlServer.xml

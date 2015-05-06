@@ -1,0 +1,11 @@
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.dll
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\suelen\Documents\Visual Studio 2013\Projects\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.xml

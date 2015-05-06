@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doodor</title>
+    @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+        <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Navegar em:</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a  class="navbar-brand navbranda" href="#">
+                    <img class="navbrand" src="~/Content/ImgFundo/LogoBranco.png"/>
+                </a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#about">Projetos</a></li>
+                    <li><a href="#contact">Portifólio</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </div>
+    <div  id="imagemDoFundo"class="col-lg-12">
+        <div id="TextoDaImagem" class="col-lg-12">
+            <div class="col-lg-3" style="margin-left: 2%;
+margin-top: 3%;">
+                <img src="~/Content/ImgFundo/SloganPreto.png" />
+            </div>
+            <div class="col-lg-8" style="margin-top: 3%;">
+                <h3> Design e Solução Tecnologica para sua empresa! Venha ser um Doodor e garanta seu espaço no mercado.</h3>
+                <button class="btn btn-primary" style="float: right; background-color: rgba(0, 0, 0, 0.8);">Venha ser um Doodo<span style="color:red; font-weight: 700;">r</span> </button>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="text-align:center; background: #9f9e96; max-width: 84.5rem;"> 
+        <h1> Fases de um Projeto</h1>
+        <h3> Nosso foco são suas</h3>
+        <h4 style="margin-top: -14px;"> Necessidades</h4>
+        <div class="col-lg-3">
+            <img src="~/Content/ImgFundo/Passo1.png" class="img-responsive" style="margin-left: 25%;" />
+        </div>
+        <div class="col-lg-3">
+            <img src="~/Content/ImgFundo/Passo2.png" class="img-responsive" style="margin-left: 25%;" />
+        </div>
+        <div class="col-lg-3">
+            <img src="~/Content/ImgFundo/Passo3.png" class="img-responsive" style="margin-left: 25%;"/>
+        </div>
+        <div class="col-lg-3">
+            <img src="~/Content/ImgFundo/Passo4.png" class="img-responsive" style="margin-left: 25%;" />
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <div class="row" style="background: #3d3b34; max-width: 84.5rem; color:white;">
+        <div class="col-lg-6" style="text-align:center">
+            <h4 style="color:white;">
+                Contato
+            </h4>
+            <p>Telefones:</p>
+            <p>(19)98388-6639</p>
+            <p>(19)98192-5300</p>
+           
+            <h3 style="color:white;">
+                E-mail:
+            </h3>
+            <p>Pedro.vferreira@outlook.com</p>
+            <p>elton.augusto.tamilheiro@hotmail.com</p>
+        </div>
+        <div class="col-lg-6"style="text-align:center; border-left:1px;">
+            <h4 style="color:white;">
+                Endereços
+            </h4>
+            <p>Rua Antonio Fernandes Leite</p>
+            <p>Nº: 1040, Jd. Santa Izabel / Hortolândia-SP</p>
+            <a href="https://www.facebook.com/elton.x3">  <img src="~/Content/ImgFundo/Facebook-logo.png" style="width: 25%;" /></a>
+        </div>
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>
